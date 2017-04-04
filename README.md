@@ -13,8 +13,8 @@ Listado de implementos necesarios para desarrollo de proyectos de arduino
 |Set de cables para Arduino	|$5.490	|101619	|Set cables macho/macho, macho/hembra, hembra/hembra.|
 
 
-## amgkits ##	
-[AMGKITS](http://www.amgkits.com/12-arduino)
+## Amgkits ##	
+[AMGKITS Arduino](http://www.amgkits.com/12-arduino)
 
 | Producto         | Valor	  | SKU     |	Descripcion |
 |------------------|----------|---------|-------------|
