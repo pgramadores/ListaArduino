@@ -14,7 +14,7 @@ Listado de implementos necesarios para desarrollo de proyectos de arduino
 
 
 ## amgkits ##	
-http://www.amgkits.com/
+[AMGKITS](http://www.amgkits.com/12-arduino)
 
 | Producto         | Valor	  | SKU     |	Descripcion |
 |------------------|----------|---------|-------------|
